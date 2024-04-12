@@ -17,7 +17,7 @@ export default function Mainpage() {
         </button>
       </div>
       <div className="w-1/2 flex justify-center p-4">
-        <div className="bg-gradient-to-r  w-35.860 h-35.860 p-2">
+        <div className="bg-gradient-to-r p-2">
           <Image
             src="/images/portfolio-2.png"
             width={500}

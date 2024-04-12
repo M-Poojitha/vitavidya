@@ -6,7 +6,7 @@ import Articles from './Articles'
 
 export default function Container() {
   return (
-    <div className=" padding: '2.75rem'">
+    <div className=" px-[2.75rem]">
       <Navbar/>
       <Mainpage/>
       <Tools/>
