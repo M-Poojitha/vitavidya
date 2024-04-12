@@ -1,6 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 
+
 export default function Mainpage() {
   return (
     <div className="bg-white flex flex-col sm:flex-row justify-between items-center py-16 sm:py-0 px-4">
@@ -20,7 +21,7 @@ export default function Mainpage() {
           <Image
             src="/images/portfolio-2.png"
             width={500}
-            height={700}
+            height={300}
             alt="Vita Veda"
             
           />
